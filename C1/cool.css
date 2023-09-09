@@ -1,0 +1,35 @@
+body {
+  background-color: pink;
+  color: navy;
+  font-family: arial;
+  font-size: 14px;
+}
+h1 {
+  text-align: center;
+  text-transform: uppercase;
+  text-decoration: overline underline;
+}
+hr {
+  background-color: red;
+  height: 5px;
+}
+h2 {
+  text-align: left;
+  text-transform: uppercase;
+  text-decoration: overline underline;
+}
+.hot {
+  background-color: yellow;
+  color: rgb(219, 71, 96);
+}
+a {
+  color: rgb(191, 20, 49);
+}
+.cold {
+  background-color: aquamarine;
+  color: rgb(6, 217, 217);
+  text-align: center;
+}
+.hot {
+  text-align: left;
+}
